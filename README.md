@@ -26,4 +26,15 @@ eaux sale, il faut bouger les dechets dans les poubelles en les draggants sur l'
 
 
 ### Devis Technique
-
+ * Fournis par l'Artiste :
+   - 1 x Projecteur vidéo
+   - 1 x Système audio
+   - 1 x Interface interactive
+   - 1 x Logiciel d’interaction
+   - 1 x Mac ou PC configuré pour la présentation
+  
+ * Fournis par l'organisateur:
+   - 1 x Écran de projection
+   - 1 x Câble HDMI et autres câbles nécessaires
+   - 1 x Switch réseau
+   - 1 x Câble Ethernet
