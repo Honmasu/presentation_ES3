@@ -9,7 +9,7 @@ Installation Interactive
     - Lorsque le jeu n'est pas joué, des déchets s'accumulent à l'écran.
 
 ### Plantation
-![Alt text](./assets/plantation.jpg)
+![Alt text](./assets/plantation.png)
 
 
 ### Simulation
