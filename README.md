@@ -15,7 +15,8 @@ eaux sale, il faut bouger les dechets dans les poubelles en les draggants sur l'
 
 
 ### Simulation
-
+![Alt text](./assets/image_scenario.jpg)
+![Alt text](./assets/image_scenario_top.jpg)
 
 
 ### Scénarimage
