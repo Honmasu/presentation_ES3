@@ -18,7 +18,7 @@ Installation Interactive
 
 
 ### Scénarimage
-
+![Alt text](./assets/sroryboard_e3.png)
 
 
 ### Devis Technique
