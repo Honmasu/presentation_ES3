@@ -1,7 +1,7 @@
 ### Synoptique
 Installation Interactive
   * Éléments :
-    - Projecteur vidéo
+    - Écran
     - Haut parleur
   * Mécanique de Jeu :
     - Interaction : Déplacer les déchets vers des poubelles en les draggants sur l'écran.
