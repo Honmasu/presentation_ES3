@@ -22,12 +22,10 @@ Installation Interactive
 
 
 ### Devis Technique
- * Fournis par l'Artiste :
+ * équipement :
    - 1 x Système audio (Haut parleur)
-   - 1 x Logiciel d’interaction (touch designer)
    - 1 x Mac ou PC configuré pour la présentation
-  
- * Fournis par l'organisateur:
    - 1 x Écran tactile
    - 1 x Câble HDMI et autres câbles
    - 1 x Câble Ethernet
+   - 1 x Logiciel d’interaction (touch designer, reaper)
