@@ -2,7 +2,7 @@
 Installation Interactive
   * Éléments :
     - Projecteur vidéo
-    - Système audio (sons d'ambiance et effets sonores)
+    - Haut parleur
   * Mécanique de Jeu :
     - Interaction : Déplacer les déchets vers des poubelles en les draggants sur l'écran.
     - Moins il y a de déchets, plus l'environnement se nettoie.
@@ -23,9 +23,8 @@ Installation Interactive
 
 ### Devis Technique
  * Fournis par l'Artiste :
-   - 1 x Système audio
-   - 1 x Interface interactive
-   - 1 x Logiciel d’interaction
+   - 1 x Système audio (Haut parleur)
+   - 1 x Logiciel d’interaction (touch designer)
    - 1 x Mac ou PC configuré pour la présentation
   
  * Fournis par l'organisateur:
