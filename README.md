@@ -7,7 +7,8 @@ Installation Interactive
     - Interaction : Déplacer les déchets vers des poubelles en les draggants sur l'écran.
     - Moins il y a de déchets, plus l'environnement se nettoie.
     - Lorsque le jeu n'est pas joué, des déchets s'accumulent à l'écran.
-
+      
+graph TD
     A[Équipement]
     B[Système audio (Haut parleur)]
     C[Mac ou PC configuré pour la présentation]
