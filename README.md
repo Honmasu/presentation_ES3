@@ -7,7 +7,7 @@ Installation Interactive
     - Interaction : Déplacer les déchets vers des poubelles en les draggants sur l'écran.
     - Moins il y a de déchets, plus l'environnement se nettoie.
     - Lorsque le jeu n'est pas joué, des déchets s'accumulent à l'écran.
-    - 
+
 ![Alt text](./assets/draw.png)
 
 ### Plantation
