@@ -8,6 +8,26 @@ Installation Interactive
     - Moins il y a de déchets, plus l'environnement se nettoie.
     - Lorsque le jeu n'est pas joué, des déchets s'accumulent à l'écran.
 
+    A[Équipement]
+    B[Système audio (Haut parleur)]
+    C[Mac ou PC configuré pour la présentation]
+    D[Écran tactile (ou projecteur)]
+    E[Câble HDMI et autres câbles]
+    F[Câble Ethernet]
+    G[Logiciel d’interaction (Touch Designer, Reaper)]
+
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+    A --> G
+
+    C -->|Connecté à| E
+    C -->|Connecté à| F
+    D -->|Connecté à| E
+    G -->|Utilise| C
+
 ![Alt text](./assets/draw.png)
 
 ### Plantation
